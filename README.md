@@ -2,6 +2,7 @@ The project contained some aws information so I need to zip it before pushing.
 The server was not running since,
 My system support 64bit so the bcrypt was node compatible with my node js so I uninstalled the bcrypt and installed bcryptjs
 By using the following code.
+
 **npm uninstall bcrypt
 npm install bcryptjs**
 
